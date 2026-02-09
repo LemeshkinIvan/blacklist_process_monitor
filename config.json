@@ -1,0 +1,8 @@
+{
+  "processBlacklist": [
+    "draw.io",
+    "Telegram"
+  ],
+  "logDirectory": "",
+  "timeSleepSeconds": 5
+}
